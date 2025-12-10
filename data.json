@@ -1,0 +1,598 @@
+{
+  "personagens": [
+    {
+      "nome": "Goku",
+      "raca": "Saiyajin",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Kamehameha",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Bulma",
+      "raca": "Humano",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Inteligencia e Invencoes",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Yamcha",
+      "raca": "Humano",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Roga Fufu Ken",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Pual",
+      "raca": "Desconhecida",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Transformacao",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Mestre Kame",
+      "raca": "Humano",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Kamehameha",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Pilaf",
+      "raca": "Demonio",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Engenharia de dispositivos",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Mai",
+      "raca": "Humano",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Armas e estrategias",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Shu",
+      "raca": "Animal",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Combate",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Lunch",
+      "raca": "Humano",
+      "saga": "Busca pelas Esferas",
+      "sagaid": 1,
+      "habilidade": "Duas personalidades",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Rei Cutelo",
+      "raca": "Humano",
+      "saga": "21º Torneio de Artes Marciais",
+      "sagaid": 2,
+      "habilidade": "Força fisica",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Kuririn",
+      "raca": "Humano",
+      "saga": "21º Torneio de Artes Marciais",
+      "sagaid": 2,
+      "habilidade": "Kienzan",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Uranai",
+      "raca": "Humano",
+      "saga": "21º Torneio de Artes Marciais",
+      "sagaid": 2,
+      "habilidade": "Adivinhacao",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Tao Pai Pai",
+      "raca": "Humano",
+      "saga": "Red Ribbon",
+      "sagaid": 3,
+      "habilidade": "Dodonpa",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Comandante Red",
+      "raca": "Humano",
+      "saga": "Red Ribbon",
+      "sagaid": 3,
+      "habilidade": "Comando militar e tecnologia",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "General Blue",
+      "raca": "Humano",
+      "saga": "Red Ribbon",
+      "sagaid": 3,
+      "habilidade": "Tecnicas especiais e comando",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Androide 8",
+      "raca": "Androide",
+      "saga": "Red Ribbon",
+      "sagaid": 3,
+      "habilidade": "Forca e resistencia",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Tenshinhan",
+      "raca": "Humano",
+      "saga": "22º Torneio de Artes Marciais",
+      "sagaid": 4,
+      "habilidade": "Shin Kikoho",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Chaos",
+      "raca": "Humano",
+      "saga": "22º Torneio de Artes Marciais",
+      "sagaid": 4,
+      "habilidade": "Telecinese",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Karin",
+      "raca": "Desconhecida",
+      "saga": "Red Ribbon",
+      "sagaid": 5,
+      "habilidade": "Treinamento e elixir",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Piccolo Daimaoh",
+      "raca": "Namekuseijin",
+      "saga": "Piccolo Daimaoh",
+      "sagaid": 5,
+      "habilidade": "Criação de monstros",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Piccolo",
+      "raca": "Namekuseijin",
+      "saga": "Piccolo Daimaoh",
+      "sagaid": 5,
+      "habilidade": "Makankosappo",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Yajirobe",
+      "raca": "Humano",
+      "saga": "Piccolo Daimaoh",
+      "sagaid": 5,
+      "habilidade": "Corte de espada",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Tambourine",
+      "raca": "Namekuseijin",
+      "saga": "Piccolo Daimaoh",
+      "sagaid": 5,
+      "habilidade": "Caca a lutadores",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Sr. Popo",
+      "raca": "Desconhecida",
+      "saga": "Piccolo Daimaoh",
+      "sagaid": 5,
+      "habilidade": "Servico divino e velocidade",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Kami Sama",
+      "raca": "Namekuseijin",
+      "saga": "Saiyajins",
+      "sagaid": 7,
+      "habilidade": "Vigilancia e selo",
+      "anime": "Dragon Ball Classico",
+      "animeid": 1
+    },
+    {
+      "nome": "Raditz",
+      "raca": "Saiyajin",
+      "saga": "Saiyajins",
+      "sagaid": 7,
+      "habilidade": "Double Sunday",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Nappa",
+      "raca": "Saiyajin",
+      "saga": "Saiyajins",
+      "sagaid": 7,
+      "habilidade": "Volcano Explosion",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Vegeta",
+      "raca": "Saiyajin",
+      "saga": "Saiyajins",
+      "sagaid": 7,
+      "habilidade": "Galick Gun",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Sr. Kaioh",
+      "raca": "Kai",
+      "saga": "Saiyajins",
+      "sagaid": 7,
+      "habilidade": "Treinamento e Kaio-ken",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Freeza",
+      "raca": "Freeza",
+      "saga": "Namekusei",
+      "sagaid": 8,
+      "habilidade": "Death Beam",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Rei Cold",
+      "raca": "Freeza",
+      "saga": "Namekusei",
+      "sagaid": 8,
+      "habilidade": "Comando galactico",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Zarbon",
+      "raca": "Freeza",
+      "saga": "Namekusei",
+      "sagaid": 8,
+      "habilidade": "Beast Mode",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Dodoria",
+      "raca": "Freeza",
+      "saga": "Namekusei",
+      "sagaid": 8,
+      "habilidade": "Rajadas de Ki",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Ginyu",
+      "raca": "Freeza",
+      "saga": "Namekusei",
+      "sagaid": 8,
+      "habilidade": "Troca de Corpos",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Dende",
+      "raca": "Namekuseijin",
+      "saga": "Namekusei",
+      "sagaid": 8,
+      "habilidade": "Cura",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Trunks",
+      "raca": "Saiyajin",
+      "saga": "Androides",
+      "sagaid": 9,
+      "habilidade": "Burning Attack",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Dr. Gero",
+      "raca": "Humano/Androide",
+      "saga": "Androides",
+      "sagaid": 9,
+      "habilidade": "Criacao de androides",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Androide 17",
+      "raca": "Androide",
+      "saga": "Androides",
+      "sagaid": 9,
+      "habilidade": "Barreira",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Androide 18",
+      "raca": "Androide",
+      "saga": "Androides",
+      "sagaid": 9,
+      "habilidade": "Kikoha",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Androide 16",
+      "raca": "Androide",
+      "saga": "Androides",
+      "sagaid": 9,
+      "habilidade": "Força bruta",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Cell",
+      "raca": "Bio-Androide",
+      "saga": "Jogos de Cell",
+      "sagaid": 10,
+      "habilidade": "Kamehameha Solar",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Mr. Satan",
+      "raca": "Humano",
+      "saga": "Majin Buu",
+      "sagaid": 11,
+      "habilidade": "Carisma e truques de luta",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Videl",
+      "raca": "Humano",
+      "saga": "Majin Buu",
+      "sagaid": 11,
+      "habilidade": "Tecnicas de artes marciais",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Goten",
+      "raca": "Saiyajin",
+      "saga": "Majin Buu",
+      "sagaid": 11,
+      "habilidade": "Kamehameha",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Babidi",
+      "raca": "Demonio",
+      "saga": "Majin Buu",
+      "sagaid": 11,
+      "habilidade": "Controle mental e magia",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Dabura",
+      "raca": "Demonio",
+      "saga": "Majin Buu",
+      "sagaid": 11,
+      "habilidade": "Petrificação",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Majin Buu",
+      "raca": "Majin",
+      "saga": "Majin Buu",
+      "sagaid": 11,
+      "habilidade": "Candy Beam",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Kaioh Supremo",
+      "raca": "Kaioshin",
+      "saga": "Majin Buu",
+      "sagaid": 11,
+      "habilidade": "Poder divino e selos",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Pan",
+      "raca": "Saiyajin",
+      "saga": "GT / Final Z",
+      "sagaid": 16,
+      "habilidade": "Combate",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Uub",
+      "raca": "Humano",
+      "saga": "GT / Final Z",
+      "sagaid": 16,
+      "habilidade": "Potencial latente",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Bills",
+      "raca": "Deus da Destruicao",
+      "saga": "Batalha dos deuses",
+      "sagaid": 12,
+      "habilidade": "Hakai",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Whis",
+      "raca": "Anjo",
+      "saga": "Batalha dos deuses",
+      "sagaid": 12,
+      "habilidade": "Controle Temporal e instrucao",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Champa",
+      "raca": "Deus da Destruicao",
+      "saga": "Universo 6",
+      "sagaid": 13,
+      "habilidade": "Hakai",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Sorbet",
+      "raca": "Desconhecida",
+      "saga": "Ressurreição de F",
+      "sagaid": 13,
+      "habilidade": "Taticas e comando",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Goku Black",
+      "raca": "Saiyajin",
+      "saga": "Goku Black",
+      "sagaid": 14,
+      "habilidade": "Kamehameha Rose",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Zamasu",
+      "raca": "Deus",
+      "saga": "Goku Black",
+      "sagaid": 14,
+      "habilidade": "Juizo divino",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Hit",
+      "raca": "Desconhecida",
+      "saga": "Universo 6",
+      "sagaid": 15,
+      "habilidade": "Time-skip",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Cabba",
+      "raca": "Saiyajin",
+      "saga": "Torneio do Poder",
+      "sagaid": 15,
+      "habilidade": "Tecnicas Saiyajin",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Caulifla",
+      "raca": "Saiyajin",
+      "saga": "Torneio do Poder",
+      "sagaid": 15,
+      "habilidade": "Tecnicas Saiyajin",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Kale",
+      "raca": "Saiyajin",
+      "saga": "Torneio do Poder",
+      "sagaid": 15,
+      "habilidade": "Berserk",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Jiren",
+      "raca": "Desconhecida",
+      "saga": "Torneio do Poder",
+      "sagaid": 15,
+      "habilidade": "Limit Breaker Power",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Toppo",
+      "raca": "Desconhecida",
+      "saga": "Torneio do Poder",
+      "sagaid": 15,
+      "habilidade": "Justice Flash e energia divina",
+      "anime": "Dragon Ball Super",
+      "animeid": 3
+    },
+    {
+      "nome": "Baby",
+      "raca": "Tuffle",
+      "saga": "GT - Baby",
+      "sagaid": 17,
+      "habilidade": "Possessao e controle",
+      "anime": "Dragon Ball GT",
+      "animeid": 4
+    },
+    {
+      "nome": "Dr. Myuu",
+      "raca": "Desconhecida",
+      "saga": "GT - Baby",
+      "sagaid": 17,
+      "habilidade": "Ciencia e maquinas",
+      "anime": "Dragon Ball GT",
+      "animeid": 4
+    },
+    {
+      "nome": "Super 17",
+      "raca": "Androide",
+      "saga": "GT - Super 17",
+      "sagaid": 18,
+      "habilidade": "Absorcao de energia",
+      "anime": "Dragon Ball GT",
+      "animeid": 4
+    },
+    {
+      "nome": "Omega Shenlong",
+      "raca": "Dragao das Sombras",
+      "saga": "GT - Dragoes das Sombras",
+      "sagaid": 19,
+      "habilidade": "Dragon Fist e poder das esferas corrompidas",
+      "anime": "Dragon Ball GT",
+      "animeid": 4
+    }
+  ]
+}
