@@ -218,12 +218,21 @@
     },
     {
       "nome": "Kami Sama",
-      "raca": "Namekuseijin",
+      "raca": "Piccolo Daimaoh",
       "saga": "Saiyajins",
       "sagaid": 7,
       "habilidade": "Vigilancia e selo",
       "anime": "Dragon Ball Classico",
       "animeid": 1
+    },
+    {
+      "nome": "Gohan",
+      "raca": "Saiyajin",
+      "saga": "Saiyajins",
+      "sagaid": 7,
+      "habilidade": "Masenko",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
     },
     {
       "nome": "Raditz",
@@ -271,17 +280,8 @@
       "animeid": 2
     },
     {
-      "nome": "Rei Cold",
-      "raca": "Freeza",
-      "saga": "Namekusei",
-      "sagaid": 8,
-      "habilidade": "Comando galactico",
-      "anime": "Dragon Ball Z",
-      "animeid": 2
-    },
-    {
       "nome": "Zarbon",
-      "raca": "Freeza",
+      "raca": "Desconhecida",
       "saga": "Namekusei",
       "sagaid": 8,
       "habilidade": "Beast Mode",
@@ -290,7 +290,7 @@
     },
     {
       "nome": "Dodoria",
-      "raca": "Freeza",
+      "raca": "Desconhecida",
       "saga": "Namekusei",
       "sagaid": 8,
       "habilidade": "Rajadas de Ki",
@@ -299,7 +299,7 @@
     },
     {
       "nome": "Ginyu",
-      "raca": "Freeza",
+      "raca": "Desconhecida",
       "saga": "Namekusei",
       "sagaid": 8,
       "habilidade": "Troca de Corpos",
@@ -321,6 +321,15 @@
       "saga": "Androides",
       "sagaid": 9,
       "habilidade": "Burning Attack",
+      "anime": "Dragon Ball Z",
+      "animeid": 2
+    },
+    {
+      "nome": "Rei Cold",
+      "raca": "Freeza",
+      "saga": "Androides",
+      "sagaid": 9,
+      "habilidade": "Comando galactico",
       "anime": "Dragon Ball Z",
       "animeid": 2
     },
