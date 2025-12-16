@@ -7,7 +7,8 @@
       "sagaid": 1,
       "habilidade": "Kamehameha",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Bulma",
@@ -16,7 +17,8 @@
       "sagaid": 1,
       "habilidade": "Inteligencia e Invencoes",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Yamcha",
@@ -25,7 +27,8 @@
       "sagaid": 1,
       "habilidade": "Roga Fufu Ken",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Pual",
@@ -34,7 +37,8 @@
       "sagaid": 1,
       "habilidade": "Transformacao",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Mestre Kame",
@@ -43,7 +47,8 @@
       "sagaid": 1,
       "habilidade": "Kamehameha",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Pilaf",
@@ -52,7 +57,8 @@
       "sagaid": 1,
       "habilidade": "Engenharia de dispositivos",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Mai",
@@ -61,7 +67,8 @@
       "sagaid": 1,
       "habilidade": "Armas e estrategias",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Shu",
@@ -70,7 +77,8 @@
       "sagaid": 1,
       "habilidade": "Combate",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Lunch",
@@ -79,7 +87,8 @@
       "sagaid": 1,
       "habilidade": "Duas personalidades",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Rei Cutelo",
@@ -88,7 +97,8 @@
       "sagaid": 2,
       "habilidade": "Força fisica",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Kuririn",
@@ -97,7 +107,8 @@
       "sagaid": 2,
       "habilidade": "Kienzan",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Uranai",
@@ -106,7 +117,8 @@
       "sagaid": 2,
       "habilidade": "Adivinhacao",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Tao Pai Pai",
@@ -115,7 +127,8 @@
       "sagaid": 3,
       "habilidade": "Dodonpa",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Comandante Red",
@@ -124,7 +137,8 @@
       "sagaid": 3,
       "habilidade": "Comando militar e tecnologia",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "General Blue",
@@ -133,7 +147,8 @@
       "sagaid": 3,
       "habilidade": "Tecnicas especiais e comando",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Androide 8",
@@ -142,7 +157,8 @@
       "sagaid": 3,
       "habilidade": "Forca e resistencia",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Tenshinhan",
@@ -151,7 +167,8 @@
       "sagaid": 4,
       "habilidade": "Shin Kikoho",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Chaos",
@@ -160,7 +177,8 @@
       "sagaid": 4,
       "habilidade": "Telecinese",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Karin",
@@ -169,7 +187,8 @@
       "sagaid": 5,
       "habilidade": "Treinamento e elixir",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Piccolo Daimaoh",
@@ -178,7 +197,8 @@
       "sagaid": 5,
       "habilidade": "Criação de monstros",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Piccolo",
@@ -187,7 +207,8 @@
       "sagaid": 5,
       "habilidade": "Makankosappo",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Yajirobe",
@@ -196,7 +217,8 @@
       "sagaid": 5,
       "habilidade": "Corte de espada",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Tambourine",
@@ -205,25 +227,28 @@
       "sagaid": 5,
       "habilidade": "Caca a lutadores",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Sr. Popo",
       "raca": "Desconhecida",
       "saga": "Piccolo Daimaoh",
-      "sagaid": 5,
+      "sagaid": 6,
       "habilidade": "Servico divino e velocidade",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Kami Sama",
       "raca": "Piccolo Daimaoh",
-      "saga": "Saiyajins",
-      "sagaid": 7,
+      "saga": "23º Torneio de Artes Marciais",
+      "sagaid": 6,
       "habilidade": "Vigilancia e selo",
       "anime": "Dragon Ball Classico",
-      "animeid": 1
+      "animeid": 1,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Gohan",
@@ -232,7 +257,8 @@
       "sagaid": 7,
       "habilidade": "Masenko",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Raditz",
@@ -241,7 +267,8 @@
       "sagaid": 7,
       "habilidade": "Double Sunday",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Nappa",
@@ -250,7 +277,8 @@
       "sagaid": 7,
       "habilidade": "Volcano Explosion",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Vegeta",
@@ -259,7 +287,8 @@
       "sagaid": 7,
       "habilidade": "Galick Gun",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Sr. Kaioh",
@@ -268,7 +297,8 @@
       "sagaid": 7,
       "habilidade": "Treinamento e Kaio-ken",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Freeza",
@@ -277,7 +307,8 @@
       "sagaid": 8,
       "habilidade": "Death Beam",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Zarbon",
@@ -286,7 +317,8 @@
       "sagaid": 8,
       "habilidade": "Beast Mode",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Dodoria",
@@ -295,7 +327,8 @@
       "sagaid": 8,
       "habilidade": "Rajadas de Ki",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Ginyu",
@@ -304,7 +337,8 @@
       "sagaid": 8,
       "habilidade": "Troca de Corpos",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Dende",
@@ -313,7 +347,8 @@
       "sagaid": 8,
       "habilidade": "Cura",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Trunks",
@@ -322,7 +357,8 @@
       "sagaid": 9,
       "habilidade": "Burning Attack",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Rei Cold",
@@ -331,7 +367,8 @@
       "sagaid": 9,
       "habilidade": "Comando galactico",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Dr. Gero",
@@ -340,7 +377,8 @@
       "sagaid": 9,
       "habilidade": "Criacao de androides",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Androide 17",
@@ -349,7 +387,8 @@
       "sagaid": 9,
       "habilidade": "Barreira",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Androide 18",
@@ -358,7 +397,8 @@
       "sagaid": 9,
       "habilidade": "Kikoha",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Androide 16",
@@ -367,7 +407,8 @@
       "sagaid": 9,
       "habilidade": "Força bruta",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Cell",
@@ -376,7 +417,8 @@
       "sagaid": 10,
       "habilidade": "Kamehameha Solar",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Mr. Satan",
@@ -385,7 +427,8 @@
       "sagaid": 11,
       "habilidade": "Carisma e truques de luta",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Videl",
@@ -394,7 +437,8 @@
       "sagaid": 11,
       "habilidade": "Tecnicas de artes marciais",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Goten",
@@ -403,7 +447,8 @@
       "sagaid": 11,
       "habilidade": "Kamehameha",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Babidi",
@@ -412,7 +457,8 @@
       "sagaid": 11,
       "habilidade": "Controle mental e magia",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Dabura",
@@ -421,7 +467,8 @@
       "sagaid": 11,
       "habilidade": "Petrificação",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Majin Buu",
@@ -430,7 +477,8 @@
       "sagaid": 11,
       "habilidade": "Candy Beam",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Kaioh Supremo",
@@ -439,7 +487,8 @@
       "sagaid": 11,
       "habilidade": "Poder divino e selos",
       "anime": "Dragon Ball Z",
-      "animeid": 2
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Pan",
@@ -447,8 +496,9 @@
       "saga": "GT / Final Z",
       "sagaid": 16,
       "habilidade": "Combate",
-      "anime": "Dragon Ball Z",
-      "animeid": 2
+      "anime": "Dragon Ball GT",
+      "animeid": 2,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Uub",
@@ -456,8 +506,9 @@
       "saga": "GT / Final Z",
       "sagaid": 16,
       "habilidade": "Potencial latente",
-      "anime": "Dragon Ball Z",
-      "animeid": 2
+      "anime": "Dragon Ball GT",
+      "animeid": 2,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Bills",
@@ -466,7 +517,8 @@
       "sagaid": 12,
       "habilidade": "Hakai",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Whis",
@@ -475,7 +527,8 @@
       "sagaid": 12,
       "habilidade": "Controle Temporal e instrucao",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Champa",
@@ -484,7 +537,8 @@
       "sagaid": 13,
       "habilidade": "Hakai",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Sorbet",
@@ -493,7 +547,8 @@
       "sagaid": 13,
       "habilidade": "Taticas e comando",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Goku Black",
@@ -502,7 +557,8 @@
       "sagaid": 14,
       "habilidade": "Kamehameha Rose",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Zamasu",
@@ -511,7 +567,8 @@
       "sagaid": 14,
       "habilidade": "Juizo divino",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Hit",
@@ -520,7 +577,8 @@
       "sagaid": 15,
       "habilidade": "Time-skip",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Cabba",
@@ -529,7 +587,8 @@
       "sagaid": 15,
       "habilidade": "Tecnicas Saiyajin",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Caulifla",
@@ -538,7 +597,8 @@
       "sagaid": 15,
       "habilidade": "Tecnicas Saiyajin",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Kale",
@@ -547,7 +607,8 @@
       "sagaid": 15,
       "habilidade": "Berserk",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Feminino"
     },
     {
       "nome": "Jiren",
@@ -556,7 +617,8 @@
       "sagaid": 15,
       "habilidade": "Limit Breaker Power",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Toppo",
@@ -565,7 +627,8 @@
       "sagaid": 15,
       "habilidade": "Justice Flash e energia divina",
       "anime": "Dragon Ball Super",
-      "animeid": 3
+      "animeid": 3,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Baby",
@@ -574,7 +637,8 @@
       "sagaid": 17,
       "habilidade": "Possessao e controle",
       "anime": "Dragon Ball GT",
-      "animeid": 4
+      "animeid": 4,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Dr. Myuu",
@@ -583,7 +647,8 @@
       "sagaid": 17,
       "habilidade": "Ciencia e maquinas",
       "anime": "Dragon Ball GT",
-      "animeid": 4
+      "animeid": 4,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Super 17",
@@ -592,7 +657,8 @@
       "sagaid": 18,
       "habilidade": "Absorcao de energia",
       "anime": "Dragon Ball GT",
-      "animeid": 4
+      "animeid": 4,
+      "Sexo": "Masculino"
     },
     {
       "nome": "Omega Shenlong",
@@ -601,7 +667,8 @@
       "sagaid": 19,
       "habilidade": "Dragon Fist e poder das esferas corrompidas",
       "anime": "Dragon Ball GT",
-      "animeid": 4
+      "animeid": 4,
+      "Sexo": "Indefinido"
     }
   ]
 }
